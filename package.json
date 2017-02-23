@@ -1,0 +1,19 @@
+{
+  "name": "prueba-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectormv/prueba-web.git"
+  },
+  "author": "hector mv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hectormv/prueba-web/issues"
+  },
+  "homepage": "https://github.com/hectormv/prueba-web#readme"
+}
