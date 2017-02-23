@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hectormv/prueba-web/issues"
   },
-  "homepage": "https://github.com/hectormv/prueba-web#readme"
+  "homepage": "https://github.com/hectormv/prueba-web#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
 }
